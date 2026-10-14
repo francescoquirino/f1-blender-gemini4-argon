@@ -19,7 +19,7 @@ Tutto generato da uno script Python, da zero.
 
 ## Video
 
-https://github.com/alessandroquirino-lab/f1-blender-gemini4-argon/raw/main/f1_showcase_10s.mp4
+https://github.com/francescoquirino/f1-blender-gemini4-argon/raw/main/f1_showcase_10s.mp4
 
 ## Anteprime
 
